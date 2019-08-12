@@ -1,0 +1,10 @@
+c:\users\kasse\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe.config
+c:\users\kasse\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+c:\users\kasse\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+c:\users\kasse\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+c:\users\kasse\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Resources.resources
+c:\users\kasse\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.GenerateResource.Cache
+c:\users\kasse\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+c:\users\kasse\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+c:\users\kasse\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.pdb
+c:\users\kasse\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form1.resources
